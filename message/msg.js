@@ -81,7 +81,7 @@ const insta = "dhilzz.storee"
 const github = "DZBOTZ"
 
 // Setting SewaBot
-const qris = "https://i.ibb.co/YTZT9SS/Qris.jpg"
+const qris = "https://telegra.ph/file/5a1a2e916c53af83c4e4a.jpg"
 const nomor = "wa.me/6285872380901"
 const tujuhhari = "5.000"
 const tigapuluhhari = "7.000"
@@ -89,11 +89,11 @@ const setahun = "10.000"
 const permanen = "15.000"
 
 //Setting Diamond FF | Ubah Harga Diamond Sesuai Kemauan mu//
-const diamondsatu = "50 ðŸ’Ž = 8.000"
-const diamonddua = "70 ðŸ’Ž = 10.000"
-const diamondtiga = "100 ðŸ’Ž = 15.000"
-const diamondempat = "140 ðŸ’Ž = 20.000"
-const diamondlima = "355 ðŸ’Ž = 50.000"
+const diamondsatu = "50 💎 = 7.000"
+const diamonddua = "70 💎 = 9.000"
+const diamondtiga = "100 💎 = 14.000"
+const diamondempat = "140 💎 = 19.000"
+const diamondlima = "355 💎 = 48.000"
 
 //Setting Rekber // Lu Ubah Aja Soalnya Gw Bukan Anak JB:v //
 const rekbera = "0-49K : 5K"
